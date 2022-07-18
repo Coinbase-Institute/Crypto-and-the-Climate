@@ -1,0 +1,34 @@
+NAME	TICKER	CONS_MECH
+Bitcoin	BTC	POW
+Ethereum	ETH	POW to POS
+BNB	BNB	POS
+XRP	XRP	OTHER
+Terra	LUNA	POS
+Solana	SOL	POS
+Cardano	ADA	POS
+Avalanche	AVAX	POS
+Polkadot	DOT	POS
+Dogecoin	DOGE	POW to POS
+Cronos	CRO	OTHER
+Cosmos	ATOM	POS
+Litecoin	LTC	POW
+NEAR Protocol	NEAR	POS
+TRON	TRX	POS
+Algorand	ALGO	POS
+Fantom	FTM	POS
+Stellar	XLM	POS
+Hedera	HBAR	POS
+Internet Computer	ICP	POS
+Ethereum Classic	ETC	POW
+Filecoin	FIL	OTHER
+VeChain	VET	OTHER
+Elrond	EGLD	POS
+Theta Network	THETA	POS
+Tezos	XTZ	POS
+Monero	XMR	POW
+Klaytn	KLAY	POS
+Helium	HNT	OTHER
+IOTA	MIOTA	POS
+EOS	EOS	POS
+Waves	WAVES	POS
+Bitcoin Cash	BCH	POW
