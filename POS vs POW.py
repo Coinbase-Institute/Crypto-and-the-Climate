@@ -58,6 +58,6 @@ fig, ax = plt.subplots()
 L1_pospow[["POW", "POW to POS", "POS", "OTHER"]].plot.area(ax=ax, figsize=(12, 8))
 ax.legend(title="Consensus")
 fig = ax.get_figure()
-fig.savefig("PoS-PoW.png")
+fig.savefig("results/PoS-PoW.png")
 
-#L1_pospow[["POW", "POW to POS", "POS", "OTHER"]].to_csv("POS_vs_POW.csv")
+L1_pospow[["POW", "POW to POS", "POS", "OTHER"]].to_csv("results/POS_vs_POW.csv")
